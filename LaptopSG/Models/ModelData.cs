@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace SportsStore.Models
+namespace LaptopSG.Models
 {
     public class ModelData
     {

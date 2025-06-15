@@ -1,0 +1,93 @@
+@{
+    ViewData["Title"] = "Database Connection Test";
+}
+
+<div class="container mt-4">
+    <div class="row">
+        <div class="col-md-12">
+            <h2><i class="fas fa-database"></i> Database Connection Test</h2>
+            
+            @if (ViewBag.ConnectionStatus == "Success")
+            {
+                <div class="alert alert-success" role="alert">
+                    <h4 class="alert-heading"><i class="fas fa-check-circle"></i> Connection Successful!</h4>
+                    <p>@ViewBag.Message</p>
+                </div>
+                
+                <div class="card mt-3">
+                    <div class="card-header">
+                        <h5><i class="fas fa-info-circle"></i> Database Information</h5>
+                    </div>
+                    <div class="card-body">
+                        <dl class="row">
+                            <dt class="col-sm-3">Database Name:</dt>
+                            <dd class="col-sm-9">@ViewBag.DatabaseName</dd>
+                            
+                            <dt class="col-sm-3">Provider:</dt>
+                            <dd class="col-sm-9">@ViewBag.ProviderName</dd>
+                            
+                            <dt class="col-sm-3">Categories Count:</dt>
+                            <dd class="col-sm-9">@ViewBag.CategoryCount</dd>
+                            
+                            <dt class="col-sm-3">Connection String:</dt>
+                            <dd class="col-sm-9"><code>@ViewBag.ConnectionString</code></dd>
+                        </dl>
+                    </div>
+                </div>
+            }
+            else if (ViewBag.ConnectionStatus == "Failed")
+            {
+                <div class="alert alert-danger" role="alert">
+                    <h4 class="alert-heading"><i class="fas fa-exclamation-triangle"></i> Connection Failed!</h4>
+                    <p>@ViewBag.Message</p>
+                </div>
+            }
+            else if (ViewBag.ConnectionStatus == "Error")
+            {
+                <div class="alert alert-danger" role="alert">
+                    <h4 class="alert-heading"><i class="fas fa-times-circle"></i> Connection Error!</h4>
+                    <p>@ViewBag.Message</p>
+                </div>
+                
+                @if (ViewBag.ErrorDetails != null)
+                {
+                    <div class="card mt-3">
+                        <div class="card-header">
+                            <h5><i class="fas fa-bug"></i> Error Details</h5>
+                        </div>
+                        <div class="card-body">
+                            <pre class="bg-light p-3"><code>@ViewBag.ErrorDetails</code></pre>
+                        </div>
+                    </div>
+                }
+            }
+            
+            <div class="mt-4">
+                <a asp-action="Index" class="btn btn-primary">
+                    <i class="fas fa-home"></i> Back to Home
+                </a>
+                <a asp-action="Categories" class="btn btn-info">
+                    <i class="fas fa-list"></i> View Categories
+                </a>
+                <button onclick="window.location.reload()" class="btn btn-warning">
+                    <i class="fas fa-redo"></i> Test Again
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<style>
+.alert {
+    border-radius: 10px;
+}
+.card {
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+pre {
+    border-radius: 5px;
+    max-height: 300px;
+    overflow-y: auto;
+}
+</style> 

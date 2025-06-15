@@ -29,7 +29,7 @@ LaptopSG/
 1. Clone the repository:
 
    ```bash
-   git clone [repository-url]
+   git clone https://github.com/nax-handle/LaptopSG.git
    ```
 
 2. Open the solution in Visual Studio:

@@ -1,7 +1,14 @@
-namespace SportsStore.Models
+namespace LaptopSG.Models
 {
-
-    public class EFStoreRepository : IStoreRepository { private StoreDbContext context;
-    public EFStoreRepository(StoreDbContext ctx) { context = ctx; }
-    public IQueryable<Product> Products => context.Products; }
+    public class EFStoreRepository : IStoreRepository
+    {
+        private StoreDbContext context;
+        
+        public EFStoreRepository(StoreDbContext ctx) 
+        { 
+            context = ctx; 
+        }
+        
+        public IQueryable<Product> Products => context.Products; 
+    }
 }
