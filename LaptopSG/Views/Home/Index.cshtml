@@ -1,109 +1,68 @@
+
 @{
-    ViewData["Title"] = "LaptopSG - Home";
+    ViewBag.Title = "Laptop SG";
 }
-
-<div class="container mt-4">
-    <div class="row">
-        <div class="col-md-12">
-            <div class="jumbotron bg-primary text-white text-center p-5 mb-4 rounded">
-                <h1 class="display-4"><i class="fas fa-laptop"></i> Welcome to LaptopSG</h1>
-                <p class="lead">Your premier laptop management system</p>
-                <hr class="my-4 bg-white">
-                <p>@ViewBag.Message</p>
-                @if (TempData["Message"] != null)
-                {
-                    <div class="alert alert-info mt-3" role="alert">
-                        @TempData["Message"]
-                    </div>
-                }
-            </div>
-        </div>
-    </div>
-    
-    <div class="row">
-        <div class="col-md-4 mb-3">
-            <div class="card h-100">
-                <div class="card-body text-center">
-                    <i class="fas fa-database fa-3x text-primary mb-3"></i>
-                    <h5 class="card-title">Database Connection</h5>
-                    <p class="card-text">Test and verify your SQL Server database connection.</p>
-                    <a asp-action="TestConnection" class="btn btn-primary">
-                        <i class="fas fa-plug"></i> Test Connection
-                    </a>
-                </div>
-            </div>
-        </div>
-        
-        <div class="col-md-4 mb-3">
-            <div class="card h-100">
-                <div class="card-body text-center">
-                    <i class="fas fa-tags fa-3x text-success mb-3"></i>
-                    <h5 class="card-title">Categories</h5>
-                    <p class="card-text">Manage product categories for your laptop inventory.</p>
-                    <a asp-action="Categories" class="btn btn-success">
-                        <i class="fas fa-list"></i> View Categories
-                    </a>
-                </div>
-            </div>
-        </div>
-        
-        <div class="col-md-4 mb-3">
-            <div class="card h-100">
-                <div class="card-body text-center">
-                    <i class="fas fa-plus-circle fa-3x text-info mb-3"></i>
-                    <h5 class="card-title">Create Category</h5>
-                    <p class="card-text">Add new categories to organize your laptop products.</p>
-                    <a asp-action="CreateCategory" class="btn btn-info">
-                        <i class="fas fa-plus"></i> Create New
-                    </a>
-                </div>
-            </div>
-        </div>
-    </div>
-    
-    <div class="row mt-4">
-        <div class="col-md-12">
-            <div class="card">
-                <div class="card-header">
-                    <h5><i class="fas fa-info-circle"></i> Quick Actions</h5>
-                </div>
-                <div class="card-body">
-                    <div class="row">
-                        <div class="col-md-6">
-                            <h6>Database Management</h6>
-                            <ul class="list-unstyled">
-                                <li><a asp-action="TestConnection" class="text-decoration-none"><i class="fas fa-check-circle text-success"></i> Test Database Connection</a></li>
-                                <li><a href="#" class="text-decoration-none"><i class="fas fa-sync text-warning"></i> Sync Models with Database</a></li>
-                            </ul>
-                        </div>
-                        <div class="col-md-6">
-                            <h6>Category Management</h6>
-                            <ul class="list-unstyled">
-                                <li><a asp-action="Categories" class="text-decoration-none"><i class="fas fa-eye text-primary"></i> View All Categories</a></li>
-                                <li><a asp-action="CreateCategory" class="text-decoration-none"><i class="fas fa-plus text-success"></i> Add New Category</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-
 <style>
-.jumbotron {
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-    border-radius: 15px;
-}
-.card {
-    border-radius: 10px;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-    transition: transform 0.2s;
-}
-.card:hover {
-    transform: translateY(-5px);
-}
-.btn {
-    border-radius: 25px;
-}
+    .banner__topzone{
+        width:1200px;
+    }
 </style>
+
+@* @{Html.RenderAction("Home_Big_Banner", "Banners");
+    Html.RenderAction("Home_Carousel_1", "Banners");
+} *@
+
+<div class="container-fluid">
+    @Html.Partial("OptionPromotion")
+    <div class="container-fluid banner__topzone">
+        <img src="https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/2023/10/banner/Desk-1200x100.png">
+    </div>
+    @Html.Partial("AVA")
+
+</div>
+@* @Html.Action("StickySidebar","Banners")
+@Html.Action("FlashSale", "Home")
+@Html.Action("TopSeller", "Home")
+@Html.Action("SaleLaptopGaming", "Home")
+@Html.Action("MacbookWeek"2, "Home")
+@Html.Partial("Service") *@
+
+@*-- @Html.Action("RecommendToday", "Home") *@
+
+<!-- <script>
+        // Function to load paginated data
+        function loadPage(pageNumber) {
+            $.ajax({
+                url: '@Url.Action("RecommendToday", "Home")', // Thay thế ActionName và ControllerName bằng tên thực tế của action và controller
+                type: 'GET',
+                data: { page: pageNumber }, // Truyền số trang cần lấy dữ liệu
+                success: function (result) {
+                    $('#pagedData').html(result.dataHtml); // Hiển thị dữ liệu phân trang
+                    $('#pagination').html(result.paginationHtml); // Hiển thị phân trang mới
+                },
+                error: function (error) {
+                    // Xử lý lỗi nếu có
+                }
+            });
+        }
+
+        $(document).ready(function () {
+            // Load trang đầu tiên khi trang được tải
+            loadPage(1);
+
+            // Bắt sự kiện click trên các liên kết phân trang
+            $(document).on('click', '.pagination-link', function (e) {
+                e.preventDefault();
+                var pageNumber = $(this).data('page');
+                loadPage(pageNumber);
+            });
+        });
+</script>
+
+
+
+
+@* @Html.Action("Home_Carousel_2", "Banners")
+@Html.Action("Home_Carousel_3", "Banners")
+@Html.Action("MostSearch","Home")
+@Html.Partial("AVA") --> *@

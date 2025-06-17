@@ -1,4 +1,5 @@
 using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Authentication.Cookies;
 using LaptopSG.Models;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -9,6 +10,21 @@ builder.Logging.AddConsole();
 builder.Logging.AddDebug();
 
 builder.Services.AddControllersWithViews();
+
+// Add Authentication
+builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
+    .AddCookie(options =>
+    {
+        options.LoginPath = "/Auth/Login";
+        options.LogoutPath = "/Auth/Logout";
+        options.AccessDeniedPath = "/Auth/AccessDenied";
+        options.ExpireTimeSpan = TimeSpan.FromHours(8);
+        options.SlidingExpiration = true;
+        options.Cookie.HttpOnly = true;
+        options.Cookie.SecurePolicy = CookieSecurePolicy.SameAsRequest;
+    });
+
+builder.Services.AddAuthorization();
 
 builder.Services.AddDbContext<StoreDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("LaptopSGConnection")));
@@ -121,6 +137,8 @@ using (var scope = app.Services.CreateScope())
 }
 
 app.UseStaticFiles();
+app.UseAuthentication();
+app.UseAuthorization();
 
 app.MapDefaultControllerRoute();
 

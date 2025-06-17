@@ -1,0 +1,1541 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\5.3.2-bootstrap.min copy.css",
+      "PackagePath": "staticwebassets\\css\\5.3.2-bootstrap.min copy.css"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\5.3.2-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\5.3.2-bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\Banner\\Home_Carousel_1.css",
+      "PackagePath": "staticwebassets\\css\\Banner\\Home_Carousel_1.css"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\Banner\\Home_Carousel_2.css",
+      "PackagePath": "staticwebassets\\css\\Banner\\Home_Carousel_2.css"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\Cart\\index.css",
+      "PackagePath": "staticwebassets\\css\\Cart\\index.css"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\Comments\\Comment.css",
+      "PackagePath": "staticwebassets\\css\\Comments\\Comment.css"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\Customer\\OrderDetails.css",
+      "PackagePath": "staticwebassets\\css\\Customer\\OrderDetails.css"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\Home\\MacbookWeek.css",
+      "PackagePath": "staticwebassets\\css\\Home\\MacbookWeek.css"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\Home\\SaleLaptopGaming.css",
+      "PackagePath": "staticwebassets\\css\\Home\\SaleLaptopGaming.css"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\Home\\TopSeller.css",
+      "PackagePath": "staticwebassets\\css\\Home\\TopSeller.css"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\Home\\flashsale.css",
+      "PackagePath": "staticwebassets\\css\\Home\\flashsale.css"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\Home\\search.css",
+      "PackagePath": "staticwebassets\\css\\Home\\search.css"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\Laptop\\filter.css",
+      "PackagePath": "staticwebassets\\css\\Laptop\\filter.css"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\Laptop\\fl_laptopcss.css",
+      "PackagePath": "staticwebassets\\css\\Laptop\\fl_laptopcss.css"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\Laptop\\index.css",
+      "PackagePath": "staticwebassets\\css\\Laptop\\index.css"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\Layout\\Ava.css",
+      "PackagePath": "staticwebassets\\css\\Layout\\Ava.css"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\5556468.png",
+      "PackagePath": "staticwebassets\\css\\List_Images\\5556468.png"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\OPPO-logo-lon-220x48.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\OPPO-logo-lon-220x48.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\apple-macbook-air-15-inch-m2-2023-gray-1.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\apple-macbook-air-15-inch-m2-2023-gray-1.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\apple-macbook-air-15-inch-m2-2023-gray-2.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\apple-macbook-air-15-inch-m2-2023-gray-2.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\apple-macbook-air-15-inch-m2-2023-gray-3.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\apple-macbook-air-15-inch-m2-2023-gray-3.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\apple-macbook-air-15-inch-m2-2023-gray-4.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\apple-macbook-air-15-inch-m2-2023-gray-4.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\apple-macbook-air-15-inch-m2-2023-gray-5.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\apple-macbook-air-15-inch-m2-2023-gray-5.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\apple-macbook-air-15-inch-m2-2023-gray-6.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\apple-macbook-air-15-inch-m2-2023-gray-6.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\apple-macbook-air-15-inch-m2-2023-gray-7.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\apple-macbook-air-15-inch-m2-2023-gray-7.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\apple-macbook-air-15-inch-m2-2023-midnight-1.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\apple-macbook-air-15-inch-m2-2023-midnight-1.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\apple-macbook-air-15-inch-m2-2023-midnight-2.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\apple-macbook-air-15-inch-m2-2023-midnight-2.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\apple-macbook-air-15-inch-m2-2023-midnight-3.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\apple-macbook-air-15-inch-m2-2023-midnight-3.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\apple-macbook-air-15-inch-m2-2023-midnight-4.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\apple-macbook-air-15-inch-m2-2023-midnight-4.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\apple-macbook-air-15-inch-m2-2023-midnight-5.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\apple-macbook-air-15-inch-m2-2023-midnight-5.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\apple-macbook-air-15-inch-m2-2023-midnight-6.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\apple-macbook-air-15-inch-m2-2023-midnight-6.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\apple-macbook-air-15-inch-m2-2023-midnight-7.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\apple-macbook-air-15-inch-m2-2023-midnight-7.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\apple-macbook-air-m2-2022-01.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\apple-macbook-air-m2-2022-01.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\apple-macbook-air-m2-2022-02.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\apple-macbook-air-m2-2022-02.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\apple-macbook-air-m2-2022-03.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\apple-macbook-air-m2-2022-03.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\apple-macbook-air-m2-2022-04.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\apple-macbook-air-m2-2022-04.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\apple-macbook-air-m2-2022-05.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\apple-macbook-air-m2-2022-05.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\apple-macbook-air-m2-2022-06.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\apple-macbook-air-m2-2022-06.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\apple-macbook-air-m2-2023-16gb-silver-1.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\apple-macbook-air-m2-2023-16gb-silver-1.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\apple-macbook-air-m2-2023-16gb-silver-2.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\apple-macbook-air-m2-2023-16gb-silver-2.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\apple-macbook-air-m2-2023-16gb-silver-3.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\apple-macbook-air-m2-2023-16gb-silver-3.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\apple-macbook-air-m2-2023-16gb-silver-4.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\apple-macbook-air-m2-2023-16gb-silver-4.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\apple-macbook-air-m2-2023-16gb-silver-5.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\apple-macbook-air-m2-2023-16gb-silver-5.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\apple-macbook-air-m2-2023-16gb-silver-6.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\apple-macbook-air-m2-2023-16gb-silver-6.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\apple-macbook-air-m2-2023-16gb-silver-7.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\apple-macbook-air-m2-2023-16gb-silver-7.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\apple-macbook-air-m2-2023-starlight-1.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\apple-macbook-air-m2-2023-starlight-1.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\apple-macbook-air-m2-2023-starlight-2.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\apple-macbook-air-m2-2023-starlight-2.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\apple-macbook-air-m2-2023-starlight-3.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\apple-macbook-air-m2-2023-starlight-3.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\apple-macbook-air-m2-2023-starlight-4.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\apple-macbook-air-m2-2023-starlight-4.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\apple-macbook-air-m2-2023-starlight-5.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\apple-macbook-air-m2-2023-starlight-5.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\apple-macbook-air-m2-2023-starlight-6.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\apple-macbook-air-m2-2023-starlight-6.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\apple-macbook-air-m2-2023-starlight-7.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\apple-macbook-air-m2-2023-starlight-7.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\apple-macbook-pro-13-inch-m2-2022-1-1.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\apple-macbook-pro-13-inch-m2-2022-1-1.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\apple-macbook-pro-13-inch-m2-2022-2-1.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\apple-macbook-pro-13-inch-m2-2022-2-1.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\apple-macbook-pro-13-inch-m2-2022-3-1.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\apple-macbook-pro-13-inch-m2-2022-3-1.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\apple-macbook-pro-13-inch-m2-2022-4-1.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\apple-macbook-pro-13-inch-m2-2022-4-1.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\apple-macbook-pro-13-inch-m2-2022-5-1.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\apple-macbook-pro-13-inch-m2-2022-5-1.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\apple-macbook-pro-13-inch-m2-2022-6-1.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\apple-macbook-pro-13-inch-m2-2022-6-1.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\apple-macbook-pro-16-inch-m3-pro-2023-12-core-ab-1.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\apple-macbook-pro-16-inch-m3-pro-2023-12-core-ab-1.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\apple-macbook-pro-16-inch-m3-pro-2023-12-core-ab-10.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\apple-macbook-pro-16-inch-m3-pro-2023-12-core-ab-10.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\apple-macbook-pro-16-inch-m3-pro-2023-12-core-ab-2.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\apple-macbook-pro-16-inch-m3-pro-2023-12-core-ab-2.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\apple-macbook-pro-16-inch-m3-pro-2023-12-core-ab-3.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\apple-macbook-pro-16-inch-m3-pro-2023-12-core-ab-3.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\apple-macbook-pro-16-inch-m3-pro-2023-12-core-ab-4.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\apple-macbook-pro-16-inch-m3-pro-2023-12-core-ab-4.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\apple-macbook-pro-16-inch-m3-pro-2023-12-core-ab-5.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\apple-macbook-pro-16-inch-m3-pro-2023-12-core-ab-5.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\apple-macbook-pro-16-inch-m3-pro-2023-12-core-ab-6.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\apple-macbook-pro-16-inch-m3-pro-2023-12-core-ab-6.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\apple-macbook-pro-16-inch-m3-pro-2023-12-core-ab-7.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\apple-macbook-pro-16-inch-m3-pro-2023-12-core-ab-7.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\apple-macbook-pro-16-inch-m3-pro-2023-12-core-ab-8.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\apple-macbook-pro-16-inch-m3-pro-2023-12-core-ab-8.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\apple-macbook-pro-16-inch-m3-pro-2023-12-core-ab-9.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\apple-macbook-pro-16-inch-m3-pro-2023-12-core-ab-9.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\asus-gaming-rog-strix-scar-18-g834jy-i9-n6039w-1.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\asus-gaming-rog-strix-scar-18-g834jy-i9-n6039w-1.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\asus-gaming-rog-strix-scar-18-g834jy-i9-n6039w-2.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\asus-gaming-rog-strix-scar-18-g834jy-i9-n6039w-2.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\asus-gaming-rog-strix-scar-18-g834jy-i9-n6039w-3.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\asus-gaming-rog-strix-scar-18-g834jy-i9-n6039w-3.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\asus-gaming-rog-strix-scar-18-g834jy-i9-n6039w-4.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\asus-gaming-rog-strix-scar-18-g834jy-i9-n6039w-4.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\asus-gaming-rog-strix-scar-18-g834jy-i9-n6039w-5.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\asus-gaming-rog-strix-scar-18-g834jy-i9-n6039w-5.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\asus-gaming-rog-strix-scar-18-g834jy-i9-n6039w-6.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\asus-gaming-rog-strix-scar-18-g834jy-i9-n6039w-6.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\asus-rog-zephyrus-duo-16-gx650pz-r9-nm031w-1.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\asus-rog-zephyrus-duo-16-gx650pz-r9-nm031w-1.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\asus-rog-zephyrus-duo-16-gx650pz-r9-nm031w-2.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\asus-rog-zephyrus-duo-16-gx650pz-r9-nm031w-2.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\asus-rog-zephyrus-duo-16-gx650pz-r9-nm031w-3.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\asus-rog-zephyrus-duo-16-gx650pz-r9-nm031w-3.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\asus-rog-zephyrus-duo-16-gx650pz-r9-nm031w-thumb-600x600.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\asus-rog-zephyrus-duo-16-gx650pz-r9-nm031w-thumb-600x600.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\asus-tuf-gaming-f15-fx506hf-i5-hn014w-1.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\asus-tuf-gaming-f15-fx506hf-i5-hn014w-1.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\asus-tuf-gaming-f15-fx506hf-i5-hn014w-10.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\asus-tuf-gaming-f15-fx506hf-i5-hn014w-10.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\asus-tuf-gaming-f15-fx506hf-i5-hn014w-11.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\asus-tuf-gaming-f15-fx506hf-i5-hn014w-11.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\asus-tuf-gaming-f15-fx506hf-i5-hn014w-12.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\asus-tuf-gaming-f15-fx506hf-i5-hn014w-12.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\asus-tuf-gaming-f15-fx506hf-i5-hn014w-13.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\asus-tuf-gaming-f15-fx506hf-i5-hn014w-13.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\asus-tuf-gaming-f15-fx506hf-i5-hn014w-2.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\asus-tuf-gaming-f15-fx506hf-i5-hn014w-2.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\asus-tuf-gaming-f15-fx506hf-i5-hn014w-3.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\asus-tuf-gaming-f15-fx506hf-i5-hn014w-3.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\asus-tuf-gaming-f15-fx506hf-i5-hn014w-4.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\asus-tuf-gaming-f15-fx506hf-i5-hn014w-4.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\asus-tuf-gaming-f15-fx506hf-i5-hn014w-5.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\asus-tuf-gaming-f15-fx506hf-i5-hn014w-5.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\asus-tuf-gaming-f15-fx506hf-i5-hn014w-6.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\asus-tuf-gaming-f15-fx506hf-i5-hn014w-6.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\asus-tuf-gaming-f15-fx506hf-i5-hn014w-7.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\asus-tuf-gaming-f15-fx506hf-i5-hn014w-7.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\asus-tuf-gaming-f15-fx506hf-i5-hn014w-8.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\asus-tuf-gaming-f15-fx506hf-i5-hn014w-8.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\asus-tuf-gaming-f15-fx506hf-i5-hn014w-9.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\asus-tuf-gaming-f15-fx506hf-i5-hn014w-9.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\asus-tuf-gaming-f17-fx706hf-i5-hx390w-glr-1.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\asus-tuf-gaming-f17-fx706hf-i5-hx390w-glr-1.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\asus-tuf-gaming-f17-fx706hf-i5-hx390w-glr-15.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\asus-tuf-gaming-f17-fx706hf-i5-hx390w-glr-15.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\asus-tuf-gaming-f17-fx706hf-i5-hx390w-glr-2.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\asus-tuf-gaming-f17-fx706hf-i5-hx390w-glr-2.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\asus-tuf-gaming-f17-fx706hf-i5-hx390w-glr-3.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\asus-tuf-gaming-f17-fx706hf-i5-hx390w-glr-3.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\asus-tuf-gaming-f17-fx706hf-i5-hx390w-glr-4.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\asus-tuf-gaming-f17-fx706hf-i5-hx390w-glr-4.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\asus-tuf-gaming-f17-fx706hf-i5-hx390w-glr-5.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\asus-tuf-gaming-f17-fx706hf-i5-hx390w-glr-5.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\asus-tuf-gaming-f17-fx706hf-i5-hx390w-glr-6.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\asus-tuf-gaming-f17-fx706hf-i5-hx390w-glr-6.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\asus-tuf-gaming-f17-fx706hf-i5-hx390w-glr-7.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\asus-tuf-gaming-f17-fx706hf-i5-hx390w-glr-7.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\asus-tuf-gaming-f17-fx706hf-i5-hx390w-glr-8.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\asus-tuf-gaming-f17-fx706hf-i5-hx390w-glr-8.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\asus-tuf-gaming-f17-fx706hf-i5-hx390w-thumb-600x600.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\asus-tuf-gaming-f17-fx706hf-i5-hx390w-thumb-600x600.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\asus-vivobook-15-x1504za-i3-nj102w-glr-1.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\asus-vivobook-15-x1504za-i3-nj102w-glr-1.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\asus-vivobook-15-x1504za-i3-nj102w-glr-13.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\asus-vivobook-15-x1504za-i3-nj102w-glr-13.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\asus-vivobook-15-x1504za-i3-nj102w-glr-14.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\asus-vivobook-15-x1504za-i3-nj102w-glr-14.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\asus-vivobook-15-x1504za-i3-nj102w-glr-2.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\asus-vivobook-15-x1504za-i3-nj102w-glr-2.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\asus-vivobook-15-x1504za-i3-nj102w-glr-3.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\asus-vivobook-15-x1504za-i3-nj102w-glr-3.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\asus-vivobook-15-x1504za-i3-nj102w-glr-4.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\asus-vivobook-15-x1504za-i3-nj102w-glr-4.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\asus-vivobook-15-x1504za-i3-nj102w-glr-5.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\asus-vivobook-15-x1504za-i3-nj102w-glr-5.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\asus-vivobook-15-x1504za-i3-nj102w-glr-6.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\asus-vivobook-15-x1504za-i3-nj102w-glr-6.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\asus-vivobook-15-x1504za-i3-nj102w-glr-7.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\asus-vivobook-15-x1504za-i3-nj102w-glr-7.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\asus-zenbook-14-flip-oled-up3404va-i7-kn039w-ab-glr-2.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\asus-zenbook-14-flip-oled-up3404va-i7-kn039w-ab-glr-2.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\asus-zenbook-14-flip-oled-up3404va-i7-kn039w-ab-glr-3.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\asus-zenbook-14-flip-oled-up3404va-i7-kn039w-ab-glr-3.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\asus-zenbook-14-flip-oled-up3404va-i7-kn039w-ab-glr-4 (1).jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\asus-zenbook-14-flip-oled-up3404va-i7-kn039w-ab-glr-4 (1).jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\asus-zenbook-14-flip-oled-up3404va-i7-kn039w-ab-glr-4.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\asus-zenbook-14-flip-oled-up3404va-i7-kn039w-ab-glr-4.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\asus-zenbook-14-flip-oled-up3404va-i7-kn039w-abc-1.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\asus-zenbook-14-flip-oled-up3404va-i7-kn039w-abc-1.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\asus-zenbook-14-flip-oled-up3404va-i7-kn039w-thumb-1-600x600.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\asus-zenbook-14-flip-oled-up3404va-i7-kn039w-thumb-1-600x600.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\cashin.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\cashin.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\grey-1-org.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\grey-1-org.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\grey-2-org.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\grey-2-org.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\grey-3-org.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\grey-3-org.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\grey-4-org.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\grey-4-org.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\grey-5-org.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\grey-5-org.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\hp-15s-fq5229tu-i3-8u237pa-glr-1.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\hp-15s-fq5229tu-i3-8u237pa-glr-1.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\hp-15s-fq5229tu-i3-8u237pa-glr-10.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\hp-15s-fq5229tu-i3-8u237pa-glr-10.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\hp-15s-fq5229tu-i3-8u237pa-glr-11.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\hp-15s-fq5229tu-i3-8u237pa-glr-11.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\hp-15s-fq5229tu-i3-8u237pa-glr-2.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\hp-15s-fq5229tu-i3-8u237pa-glr-2.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\hp-15s-fq5229tu-i3-8u237pa-glr-3.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\hp-15s-fq5229tu-i3-8u237pa-glr-3.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\hp-15s-fq5229tu-i3-8u237pa-glr-4.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\hp-15s-fq5229tu-i3-8u237pa-glr-4.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\hp-15s-fq5229tu-i3-8u237pa-glr-5.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\hp-15s-fq5229tu-i3-8u237pa-glr-5.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\hp-15s-fq5229tu-i3-8u237pa-glr-6.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\hp-15s-fq5229tu-i3-8u237pa-glr-6.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\hp-15s-fq5229tu-i3-8u237pa-glr-7.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\hp-15s-fq5229tu-i3-8u237pa-glr-7.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\hp-15s-fq5229tu-i3-8u237pa-glr-8.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\hp-15s-fq5229tu-i3-8u237pa-glr-8.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\hp-15s-fq5229tu-i3-8u237pa-glr-9.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\hp-15s-fq5229tu-i3-8u237pa-glr-9.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\hp-envy-x360-13-bf0090tu-i7-76b13pa-1-1.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\hp-envy-x360-13-bf0090tu-i7-76b13pa-1-1.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\hp-envy-x360-13-bf0090tu-i7-76b13pa-101122-093057-600x600.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\hp-envy-x360-13-bf0090tu-i7-76b13pa-101122-093057-600x600.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\hp-envy-x360-13-bf0090tu-i7-76b13pa-2-1.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\hp-envy-x360-13-bf0090tu-i7-76b13pa-2-1.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\hp-envy-x360-13-bf0090tu-i7-76b13pa-3-1.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\hp-envy-x360-13-bf0090tu-i7-76b13pa-3-1.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\hp-envy-x360-13-bf0112tu-i5-7c0n9pa-glr-thumb-600x600.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\hp-envy-x360-13-bf0112tu-i5-7c0n9pa-glr-thumb-600x600.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\hp-pavilion-x360-14-ek1048tu-i5-80r26pa-slider-2-1020x570.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\hp-pavilion-x360-14-ek1048tu-i5-80r26pa-slider-2-1020x570.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\hp-pavilion-x360-14-ek1049tu-i5-80r27pa-glr-abc-1.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\hp-pavilion-x360-14-ek1049tu-i5-80r27pa-glr-abc-1.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\hp-pavilion-x360-14-ek1049tu-i5-80r27pa-glr-abc-2.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\hp-pavilion-x360-14-ek1049tu-i5-80r27pa-glr-abc-2.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\hp-pavilion-x360-14-ek1049tu-i5-80r27pa-glr-abc-3.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\hp-pavilion-x360-14-ek1049tu-i5-80r27pa-glr-abc-3.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\hp-pavilion-x360-14-ek1049tu-i5-80r27pa-glr-abc-4.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\hp-pavilion-x360-14-ek1049tu-i5-80r27pa-glr-abc-4.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\hp-pavilion-x360-14-ek1049tu-i5-80r27pa-thumb-lap-600x600.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\hp-pavilion-x360-14-ek1049tu-i5-80r27pa-thumb-lap-600x600.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\lenovo-legion-5-15iah7-i5-82rc003wvn-1-1.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\lenovo-legion-5-15iah7-i5-82rc003wvn-1-1.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\lenovo-legion-5-15iah7-i5-82rc003wvn-13.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\lenovo-legion-5-15iah7-i5-82rc003wvn-13.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\lenovo-legion-5-15iah7-i5-82rc003wvn-14.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\lenovo-legion-5-15iah7-i5-82rc003wvn-14.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\lenovo-legion-5-15iah7-i5-82rc003wvn-15.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\lenovo-legion-5-15iah7-i5-82rc003wvn-15.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\lenovo-legion-5-15iah7-i5-82rc003wvn-2-1.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\lenovo-legion-5-15iah7-i5-82rc003wvn-2-1.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\lenovo-legion-5-15iah7-i5-82rc003wvn-3-2.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\lenovo-legion-5-15iah7-i5-82rc003wvn-3-2.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\lenovo-legion-5-15iah7-i5-82rc003wvn-4-1.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\lenovo-legion-5-15iah7-i5-82rc003wvn-4-1.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\lenovo-legion-5-15iah7-i5-82rc003wvn-5-1.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\lenovo-legion-5-15iah7-i5-82rc003wvn-5-1.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\lenovo-legion-5-15iah7-i5-82rc003wvn-6-1.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\lenovo-legion-5-15iah7-i5-82rc003wvn-6-1.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\lenovo-legion-5-15iah7-i5-82rc003wvn-7-1.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\lenovo-legion-5-15iah7-i5-82rc003wvn-7-1.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\lenovo-legion-5-15iah7-i5-82rc003wvn-8-1.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\lenovo-legion-5-15iah7-i5-82rc003wvn-8-1.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\macbook-pro-16-inch-m2-pro-1-tb638135368799701291.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\macbook-pro-16-inch-m2-pro-1-tb638135368799701291.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\macbook-pro-16-inch-m2-pro-1-tb638135368801321360.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\macbook-pro-16-inch-m2-pro-1-tb638135368801321360.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\macbook-pro-16-inch-m2-pro-1-tb638135368802061341.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\macbook-pro-16-inch-m2-pro-1-tb638135368802061341.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\macbook-pro-16-inch-m2-pro-1-tb638135368802821291.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\macbook-pro-16-inch-m2-pro-1-tb638135368802821291.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\macbook-pro-16-inch-m2-pro-1-tb638135368803641515.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\macbook-pro-16-inch-m2-pro-1-tb638135368803641515.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\macbook-pro-16-inch-m2-pro-1tb-silver-abc-1.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\macbook-pro-16-inch-m2-pro-1tb-silver-abc-1.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\macbook-pro-16-inch-m2-pro-1tb-silver-abc-2.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\macbook-pro-16-inch-m2-pro-1tb-silver-abc-2.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\macbook-pro-16-inch-m2-pro-1tb-silver-abc-3.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\macbook-pro-16-inch-m2-pro-1tb-silver-abc-3.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\macbook-pro-16-inch-m2-pro-1tb-silver-abc-4.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\macbook-pro-16-inch-m2-pro-1tb-silver-abc-4.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\macbook-pro-16-inch-m2-pro-1tb-silver-abc-5.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\macbook-pro-16-inch-m2-pro-1tb-silver-abc-5.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\msi-gaming-gf63-thin-11uc-i5-1230vn-slider-1-1020x570.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\msi-gaming-gf63-thin-11uc-i5-1230vn-slider-1-1020x570.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\msi-gaming-gf63-thin-11uc-i5-1230vn-slider-3-1020x570.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\msi-gaming-gf63-thin-11uc-i5-1230vn-slider-3-1020x570.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\msi-gaming-gf63-thin-11uc-i7-1228vn-1.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\msi-gaming-gf63-thin-11uc-i7-1228vn-1.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\msi-gaming-gf63-thin-11uc-i7-1228vn-2.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\msi-gaming-gf63-thin-11uc-i7-1228vn-2.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\msi-gaming-gf63-thin-11uc-i7-1228vn-3.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\msi-gaming-gf63-thin-11uc-i7-1228vn-3.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\msi-gaming-gf63-thin-11uc-i7-1228vn-4.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\msi-gaming-gf63-thin-11uc-i7-1228vn-4.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\msi-gaming-gf63-thin-11uc-i7-1228vn-5.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\msi-gaming-gf63-thin-11uc-i7-1228vn-5.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\surface-pro-9-i5-glr-bac-1.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\surface-pro-9-i5-glr-bac-1.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\surface-pro-9-i5-glr-bac-2.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\surface-pro-9-i5-glr-bac-2.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\surface-pro-9-i5-glr-bac-3.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\surface-pro-9-i5-glr-bac-3.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\surface-pro-9-i5-glr-bac-4.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\surface-pro-9-i5-glr-bac-4.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\surface-pro-9-i5-glr-bac-5.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\surface-pro-9-i5-glr-bac-5.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-acer-nitro-5-tiger-an515-58-52sp-i5-nhqfhsv001-1.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-acer-nitro-5-tiger-an515-58-52sp-i5-nhqfhsv001-1.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-acer-nitro-5-tiger-an515-58-52sp-i5-nhqfhsv001-3.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-acer-nitro-5-tiger-an515-58-52sp-i5-nhqfhsv001-3.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-acer-nitro-5-tiger-an515-58-52sp-i5-nhqfhsv001-4.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-acer-nitro-5-tiger-an515-58-52sp-i5-nhqfhsv001-4.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-acer-nitro-5-tiger-an515-58-52sp-i5-nhqfhsv001-5.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-acer-nitro-5-tiger-an515-58-52sp-i5-nhqfhsv001-5.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-acer-nitro-5-tiger-an515-58-52sp-i5-nhqfhsv001-6.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-acer-nitro-5-tiger-an515-58-52sp-i5-nhqfhsv001-6.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-acer-nitro-5-tiger-an515-58-52sp-i5-nhqfhsv001-7.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-acer-nitro-5-tiger-an515-58-52sp-i5-nhqfhsv001-7.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-acer-nitro-5-tiger-an515-58-52sp-i5-nhqfhsv001-8.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-acer-nitro-5-tiger-an515-58-52sp-i5-nhqfhsv001-8.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-apple-macbook-air-m2-2022-16gb-1.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-apple-macbook-air-m2-2022-16gb-1.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-apple-macbook-air-m2-2022-16gb-2.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-apple-macbook-air-m2-2022-16gb-2.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-apple-macbook-air-m2-2022-16gb-3.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-apple-macbook-air-m2-2022-16gb-3.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-apple-macbook-air-m2-2022-16gb-4.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-apple-macbook-air-m2-2022-16gb-4.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-apple-macbook-air-m2-2022-16gb-5.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-apple-macbook-air-m2-2022-16gb-5.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-apple-macbook-air-m2-2022-16gb-6.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-apple-macbook-air-m2-2022-16gb-6.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-apple-macbook-air-m2-2022-16gb-7.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-apple-macbook-air-m2-2022-16gb-7.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-apple-macbook-air-m2-2023-16gb-slider-1.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-apple-macbook-air-m2-2023-16gb-slider-1.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-apple-macbook-air-m2-2023-16gb-slider-2.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-apple-macbook-air-m2-2023-16gb-slider-2.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-apple-macbook-air-m2-2023-16gb-slider-3.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-apple-macbook-air-m2-2023-16gb-slider-3.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-apple-macbook-air-m2-2023-16gb-slider-4.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-apple-macbook-air-m2-2023-16gb-slider-4.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-apple-macbook-air-m2-2023-16gb-slider-5.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-apple-macbook-air-m2-2023-16gb-slider-5.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-apple-macbook-pro-13-inch-m2-2022-01.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-apple-macbook-pro-13-inch-m2-2022-01.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-apple-macbook-pro-13-inch-m2-2022-02.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-apple-macbook-pro-13-inch-m2-2022-02.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-apple-macbook-pro-13-inch-m2-2022-03.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-apple-macbook-pro-13-inch-m2-2022-03.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-apple-macbook-pro-13-inch-m2-2022-04.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-apple-macbook-pro-13-inch-m2-2022-04.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-apple-macbook-pro-13-inch-m2-2022-05.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-apple-macbook-pro-13-inch-m2-2022-05.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-apple-macbook-pro-13-inch-m2-2022-07.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-apple-macbook-pro-13-inch-m2-2022-07.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-apple-macbook-pro-13-inch-m2-2022-08.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-apple-macbook-pro-13-inch-m2-2022-08.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-apple-macbook-pro-13-inch-m2-2022-09.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-apple-macbook-pro-13-inch-m2-2022-09.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-apple-macbook-pro-16-inch-m3-max-2023-14-core-slider-1.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-apple-macbook-pro-16-inch-m3-max-2023-14-core-slider-1.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-apple-macbook-pro-16-inch-m3-max-2023-14-core-slider-2.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-apple-macbook-pro-16-inch-m3-max-2023-14-core-slider-2.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-apple-macbook-pro-16-inch-m3-max-2023-14-core-slider-3.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-apple-macbook-pro-16-inch-m3-max-2023-14-core-slider-3.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-apple-macbook-pro-16-inch-m3-max-2023-14-core-slider-4.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-apple-macbook-pro-16-inch-m3-max-2023-14-core-slider-4.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-apple-macbook-pro-16-inch-m3-max-2023-14-core-slider-5.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-apple-macbook-pro-16-inch-m3-max-2023-14-core-slider-5.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-asus-gaming-rog-strix-scar-18-g834jy-i9-n6039w-slider-1.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-asus-gaming-rog-strix-scar-18-g834jy-i9-n6039w-slider-1.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-asus-gaming-rog-strix-scar-18-g834jy-i9-n6039w-slider-2.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-asus-gaming-rog-strix-scar-18-g834jy-i9-n6039w-slider-2.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-asus-gaming-rog-strix-scar-18-g834jy-i9-n6039w-slider-3.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-asus-gaming-rog-strix-scar-18-g834jy-i9-n6039w-slider-3.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-asus-gaming-rog-strix-scar-18-g834jy-i9-n6039w-slider-4.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-asus-gaming-rog-strix-scar-18-g834jy-i9-n6039w-slider-4.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-asus-gaming-rog-strix-scar-18-g834jy-i9-n6039w-slider-5.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-asus-gaming-rog-strix-scar-18-g834jy-i9-n6039w-slider-5.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-asus-gaming-rog-strix-scar-18-g834jy-i9-n6039w-slider-6.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-asus-gaming-rog-strix-scar-18-g834jy-i9-n6039w-slider-6.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-asus-rog-zephyrus-duo-16-gx650pz-r9-nm031w-slider-1.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-asus-rog-zephyrus-duo-16-gx650pz-r9-nm031w-slider-1.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-asus-rog-zephyrus-duo-16-gx650pz-r9-nm031w-slider-2.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-asus-rog-zephyrus-duo-16-gx650pz-r9-nm031w-slider-2.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-asus-rog-zephyrus-duo-16-gx650pz-r9-nm031w-slider-3.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-asus-rog-zephyrus-duo-16-gx650pz-r9-nm031w-slider-3.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-asus-tuf-gaming-f15-fx506hf-i5-hn014w--(1).jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-asus-tuf-gaming-f15-fx506hf-i5-hn014w--(1).jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-asus-tuf-gaming-f15-fx506hf-i5-hn014w--(2).jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-asus-tuf-gaming-f15-fx506hf-i5-hn014w--(2).jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-asus-tuf-gaming-f15-fx506hf-i5-hn014w--(3).jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-asus-tuf-gaming-f15-fx506hf-i5-hn014w--(3).jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-asus-tuf-gaming-f15-fx506hf-i5-hn014w--(4).jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-asus-tuf-gaming-f15-fx506hf-i5-hn014w--(4).jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-asus-tuf-gaming-f15-fx506hf-i5-hn014w--(5).jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-asus-tuf-gaming-f15-fx506hf-i5-hn014w--(5).jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-asus-tuf-gaming-f15-fx506hf-i5-hn014w--(6).jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-asus-tuf-gaming-f15-fx506hf-i5-hn014w--(6).jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-asus-tuf-gaming-f17-fx706hf-i5-hx390w-slider-1.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-asus-tuf-gaming-f17-fx706hf-i5-hx390w-slider-1.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-asus-tuf-gaming-f17-fx706hf-i5-hx390w-slider-2.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-asus-tuf-gaming-f17-fx706hf-i5-hx390w-slider-2.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-asus-tuf-gaming-f17-fx706hf-i5-hx390w-slider-3.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-asus-tuf-gaming-f17-fx706hf-i5-hx390w-slider-3.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-asus-tuf-gaming-f17-fx706hf-i5-hx390w-slider-4.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-asus-tuf-gaming-f17-fx706hf-i5-hx390w-slider-4.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-asus-tuf-gaming-f17-fx706hf-i5-hx390w-slider-5.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-asus-tuf-gaming-f17-fx706hf-i5-hx390w-slider-5.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-asus-tuf-gaming-f17-fx706hf-i5-hx390w-slider-6.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-asus-tuf-gaming-f17-fx706hf-i5-hx390w-slider-6.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-asus-vivobook-15-x1504za-i3-nj102w-slider-1.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-asus-vivobook-15-x1504za-i3-nj102w-slider-1.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-asus-vivobook-15-x1504za-i3-nj102w-slider-2.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-asus-vivobook-15-x1504za-i3-nj102w-slider-2.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-asus-vivobook-15-x1504za-i3-nj102w-slider-3.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-asus-vivobook-15-x1504za-i3-nj102w-slider-3.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-asus-vivobook-15-x1504za-i3-nj102w-slider-4.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-asus-vivobook-15-x1504za-i3-nj102w-slider-4.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-asus-vivobook-15-x1504za-i3-nj102w-slider-5.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-asus-vivobook-15-x1504za-i3-nj102w-slider-5.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-asus-vivobook-15-x1504za-i3-nj102w-slider-6.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-asus-vivobook-15-x1504za-i3-nj102w-slider-6.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-asus-zenbook-14-flip-oled-up3404va-i7-kn039w--(1).jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-asus-zenbook-14-flip-oled-up3404va-i7-kn039w--(1).jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-asus-zenbook-14-flip-oled-up3404va-i7-kn039w--(2).jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-asus-zenbook-14-flip-oled-up3404va-i7-kn039w--(2).jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-asus-zenbook-14-flip-oled-up3404va-i7-kn039w--(3).jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-asus-zenbook-14-flip-oled-up3404va-i7-kn039w--(3).jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-asus-zenbook-14-flip-oled-up3404va-i7-kn039w--(4).jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-asus-zenbook-14-flip-oled-up3404va-i7-kn039w--(4).jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-asus-zenbook-14-flip-oled-up3404va-i7-kn039w--(5).jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-asus-zenbook-14-flip-oled-up3404va-i7-kn039w--(5).jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-asus-zenbook-14-flip-oled-up3404va-i7-kn039w--(6).jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-asus-zenbook-14-flip-oled-up3404va-i7-kn039w--(6).jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-asus-zenbook-14-flip-oled-up3404va-i7-kn039w--(7) (1).jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-asus-zenbook-14-flip-oled-up3404va-i7-kn039w--(7) (1).jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-hp-envy-x360-13-bf0090tu-i7-76b13pa-1.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-hp-envy-x360-13-bf0090tu-i7-76b13pa-1.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-hp-envy-x360-13-bf0090tu-i7-76b13pa-2.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-hp-envy-x360-13-bf0090tu-i7-76b13pa-2.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-hp-envy-x360-13-bf0090tu-i7-76b13pa-3.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-hp-envy-x360-13-bf0090tu-i7-76b13pa-3.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-hp-pavilion-x360-14-ek1049tu-i5-80r27pa-slider-1.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-hp-pavilion-x360-14-ek1049tu-i5-80r27pa-slider-1.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-hp-pavilion-x360-14-ek1049tu-i5-80r27pa-slider-3.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-hp-pavilion-x360-14-ek1049tu-i5-80r27pa-slider-3.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-lenovo-legion-5-16irh8-i5-82ya00bsvn-slider-1.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-lenovo-legion-5-16irh8-i5-82ya00bsvn-slider-1.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-lenovo-legion-5-16irh8-i5-82ya00bsvn-slider-2.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-lenovo-legion-5-16irh8-i5-82ya00bsvn-slider-2.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-lenovo-legion-5-16irh8-i5-82ya00bsvn-slider-3.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-lenovo-legion-5-16irh8-i5-82ya00bsvn-slider-3.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-lenovo-legion-5-16irh8-i5-82ya00bsvn-slider-4.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-lenovo-legion-5-16irh8-i5-82ya00bsvn-slider-4.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-lenovo-legion-5-16irh8-i5-82ya00bsvn-slider-5.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-lenovo-legion-5-16irh8-i5-82ya00bsvn-slider-5.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-lenovo-legion-5-16irh8-i5-82ya00bsvn-slider-6.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-lenovo-legion-5-16irh8-i5-82ya00bsvn-slider-6.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-lenovo-legion-5-16irh8-i5-82ya00bsvn-slider-7.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-lenovo-legion-5-16irh8-i5-82ya00bsvn-slider-7.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-lenovo-loq-gaming-15irh8-i5-82xv00q4vn-slider-1.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-lenovo-loq-gaming-15irh8-i5-82xv00q4vn-slider-1.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-lenovo-loq-gaming-15irh8-i5-82xv00q4vn-slider-2.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-lenovo-loq-gaming-15irh8-i5-82xv00q4vn-slider-2.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-lenovo-loq-gaming-15irh8-i5-82xv00q4vn-slider-3.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-lenovo-loq-gaming-15irh8-i5-82xv00q4vn-slider-3.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-lenovo-loq-gaming-15irh8-i5-82xv00q4vn-slider-4.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-lenovo-loq-gaming-15irh8-i5-82xv00q4vn-slider-4.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-lenovo-loq-gaming-15irh8-i5-82xv00q4vn-slider-5.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-lenovo-loq-gaming-15irh8-i5-82xv00q4vn-slider-5.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-msi-gaming-gf63-thin-11uc-i5-1230vn--(1).jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-msi-gaming-gf63-thin-11uc-i5-1230vn--(1).jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-msi-gaming-gf63-thin-11uc-i5-1230vn--(2).jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-msi-gaming-gf63-thin-11uc-i5-1230vn--(2).jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-msi-gaming-gf63-thin-11uc-i5-1230vn--(5).jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-msi-gaming-gf63-thin-11uc-i5-1230vn--(5).jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-msi-gaming-gf63-thin-11uc-i5-1230vn--(6).jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-msi-gaming-gf63-thin-11uc-i5-1230vn--(6).jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-surface-pro-9-i5-slider-1.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-surface-pro-9-i5-slider-1.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-surface-pro-9-i5-slider-2.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-surface-pro-9-i5-slider-2.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-surface-pro-9-i5-slider-3.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-surface-pro-9-i5-slider-3.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-surface-pro-9-i5-slider-4.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-surface-pro-9-i5-slider-4.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-surface-pro-9-i5-slider-5.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-surface-pro-9-i5-slider-5.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-surface-pro-9-i5-slider-6.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-surface-pro-9-i5-slider-6.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-surface-pro-9-i5-slider-7.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-surface-pro-9-i5-slider-7.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-surface-pro-9-i7-slider-1.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-surface-pro-9-i7-slider-1.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-surface-pro-9-i7-slider-2.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-surface-pro-9-i7-slider-2.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-surface-pro-9-i7-slider-3.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-surface-pro-9-i7-slider-3.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-surface-pro-9-i7-slider-4.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-surface-pro-9-i7-slider-4.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\List_Images\\vi-vn-surface-pro-9-i7-slider-5.jpg",
+      "PackagePath": "staticwebassets\\css\\List_Images\\vi-vn-surface-pro-9-i7-slider-5.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\Order\\Index.css",
+      "PackagePath": "staticwebassets\\css\\Order\\Index.css"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\Payment\\Index.css",
+      "PackagePath": "staticwebassets\\css\\Payment\\Index.css"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\ProductDetail\\Laptop_Detail.css",
+      "PackagePath": "staticwebassets\\css\\ProductDetail\\Laptop_Detail.css"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\Slick\\slick-button.css",
+      "PackagePath": "staticwebassets\\css\\Slick\\slick-button.css"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\Slick\\slick-new.css",
+      "PackagePath": "staticwebassets\\css\\Slick\\slick-new.css"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\Slick\\slick-theme.min.css",
+      "PackagePath": "staticwebassets\\css\\Slick\\slick-theme.min.css"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\Slick\\slick.min.css",
+      "PackagePath": "staticwebassets\\css\\Slick\\slick.min.css"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\bootstrap-theme copy.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-theme copy.css"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\bootstrap-theme.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-theme.css"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\bootstrap-theme.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-theme.css.map"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\bootstrap-theme.min copy.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-theme.min copy.css"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\bootstrap-theme.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-theme.min.css"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\bootstrap-theme.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-theme.min.css.map"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\bootstrap.min copy.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min copy.css"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\css_admin\\styles.css",
+      "PackagePath": "staticwebassets\\css\\css_admin\\styles.css"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\images\\100.png",
+      "PackagePath": "staticwebassets\\css\\images\\100.png"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\images\\760-400-760x400-4.png",
+      "PackagePath": "staticwebassets\\css\\images\\760-400-760x400-4.png"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\images\\760x400-760x400-12.png",
+      "PackagePath": "staticwebassets\\css\\images\\760x400-760x400-12.png"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\images\\760x400-760x400-4.png",
+      "PackagePath": "staticwebassets\\css\\images\\760x400-760x400-4.png"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\images\\A05-720-220-720x220-7.png",
+      "PackagePath": "staticwebassets\\css\\images\\A05-720-220-720x220-7.png"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\images\\Banner-Big-TGDD-Desktop-1920x450.png",
+      "PackagePath": "staticwebassets\\css\\images\\Banner-Big-TGDD-Desktop-1920x450.png"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\images\\Banner-big-min-1920x450.png",
+      "PackagePath": "staticwebassets\\css\\images\\Banner-big-min-1920x450.png"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\images\\Big-1200-44-1200x44.png",
+      "PackagePath": "staticwebassets\\css\\images\\Big-1200-44-1200x44.png"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\images\\IP15-1200-44-1200x44.png",
+      "PackagePath": "staticwebassets\\css\\images\\IP15-1200-44-1200x44.png"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\images\\IP15-720-220-720x220-1.png",
+      "PackagePath": "staticwebassets\\css\\images\\IP15-720-220-720x220-1.png"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\images\\IP15-760-400-760x400-1.png",
+      "PackagePath": "staticwebassets\\css\\images\\IP15-760-400-760x400-1.png"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\images\\LAP-GAMING-720-220-720x220.png",
+      "PackagePath": "staticwebassets\\css\\images\\LAP-GAMING-720-220-720x220.png"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\images\\MH-1920x400.png",
+      "PackagePath": "staticwebassets\\css\\images\\MH-1920x400.png"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\images\\Mobell522-b_8.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\Mobell522-b_8.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\images\\Screenshot 2023-11-10 141725.png",
+      "PackagePath": "staticwebassets\\css\\images\\Screenshot 2023-11-10 141725.png"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\images\\Xiaomi-720-220-720x220-3.png",
+      "PackagePath": "staticwebassets\\css\\images\\Xiaomi-720-220-720x220-3.png"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\images\\acer-nitro-5-an515-58-769j-i7-nhqfhsv003-thumb-600x600.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\acer-nitro-5-an515-58-769j-i7-nhqfhsv003-thumb-600x600.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\images\\analysis_249325.png",
+      "PackagePath": "staticwebassets\\css\\images\\analysis_249325.png"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\images\\apple-macbook-air-m2-2022-01.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\apple-macbook-air-m2-2022-01.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\images\\apple-macbook-air-m2-2022-1-1.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\apple-macbook-air-m2-2022-1-1.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\images\\apple-macbook-air-m2-2023-16gb-silver-1.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\apple-macbook-air-m2-2023-16gb-silver-1.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\images\\apple-macbook-pro-13-inch-m2-2022-1-1.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\apple-macbook-pro-13-inch-m2-2022-1-1.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\images\\apple-macbook-pro-16-inch-m3-pro-2023-12-core-ab-1.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\apple-macbook-pro-16-inch-m3-pro-2023-12-core-ab-1.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\images\\asus-gaming-rog-strix-scar-18-g834jy-i9-n6039w-thumb-600x600.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\asus-gaming-rog-strix-scar-18-g834jy-i9-n6039w-thumb-600x600.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\images\\asus-rog-zephyrus-duo-16-gx650pz-r9-nm031w-thumb-600x600.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\asus-rog-zephyrus-duo-16-gx650pz-r9-nm031w-thumb-600x600.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\images\\asus-tuf-gaming-f15-fx506hf-i5-hn014w-2.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\asus-tuf-gaming-f15-fx506hf-i5-hn014w-2.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\images\\asus-tuf-gaming-f17-fx706hf-i5-hx390w-glr-2.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\asus-tuf-gaming-f17-fx706hf-i5-hx390w-glr-2.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\images\\asus-tuf-gaming-f17-fx706hf-i5-hx390w-glr-3.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\asus-tuf-gaming-f17-fx706hf-i5-hx390w-glr-3.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\images\\asus-tuf-gaming-f17-fx706hf-i5-hx390w-thumb-600x600.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\asus-tuf-gaming-f17-fx706hf-i5-hx390w-thumb-600x600.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\images\\asus-vivobook-15-x1504za-i3-nj102w-glr-2.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\asus-vivobook-15-x1504za-i3-nj102w-glr-2.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\images\\asus-zenbook-14-flip-oled-up3404va-i7-kn039w-thumb-1-600x600.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\asus-zenbook-14-flip-oled-up3404va-i7-kn039w-thumb-1-600x600.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\images\\chuyentrang-APPLEDT-390x210.png",
+      "PackagePath": "staticwebassets\\css\\images\\chuyentrang-APPLEDT-390x210.png"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\images\\chuyentrang-HP-390x210.png",
+      "PackagePath": "staticwebassets\\css\\images\\chuyentrang-HP-390x210.png"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\images\\chuyentrang-lenovo-390x210-1.png",
+      "PackagePath": "staticwebassets\\css\\images\\chuyentrang-lenovo-390x210-1.png"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\images\\dell-inspiron-14-7430-i5-n7430i58w1-221023-102403-600x600.png",
+      "PackagePath": "staticwebassets\\css\\images\\dell-inspiron-14-7430-i5-n7430i58w1-221023-102403-600x600.png"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\images\\gaming_2646618.png",
+      "PackagePath": "staticwebassets\\css\\images\\gaming_2646618.png"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\images\\grey-5-org.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\grey-5-org.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\images\\hp-pavilion-x360-14-ek1049tu-i5-80r27pa-thumb-lap-600x600.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\hp-pavilion-x360-14-ek1049tu-i5-80r27pa-thumb-lap-600x600.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\images\\icon-50x50-label-giarequa-min-50x50.png",
+      "PackagePath": "staticwebassets\\css\\images\\icon-50x50-label-giarequa-min-50x50.png"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\images\\icon1-50x50-1.png",
+      "PackagePath": "staticwebassets\\css\\images\\icon1-50x50-1.png"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\images\\icon10-50x50-1.png",
+      "PackagePath": "staticwebassets\\css\\images\\icon10-50x50-1.png"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\images\\icon3-50x50.png",
+      "PackagePath": "staticwebassets\\css\\images\\icon3-50x50.png"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\images\\icon4-100x50.png",
+      "PackagePath": "staticwebassets\\css\\images\\icon4-100x50.png"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\images\\icon4-50x50.png",
+      "PackagePath": "staticwebassets\\css\\images\\icon4-50x50.png"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\images\\icon5-50x50.png",
+      "PackagePath": "staticwebassets\\css\\images\\icon5-50x50.png"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\images\\icon6-50x50.png",
+      "PackagePath": "staticwebassets\\css\\images\\icon6-50x50.png"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\images\\lenovo-legion-5-16irh8-i5-82ya00bsvn-280823-025858-600x600.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\lenovo-legion-5-16irh8-i5-82ya00bsvn-280823-025858-600x600.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\images\\lenovo-loq-gaming-15irh8-i7-82xv00qxvn-thumb-600x600.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\lenovo-loq-gaming-15irh8-i7-82xv00qxvn-thumb-600x600.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\images\\lenovo-loq-gaming-15irh8-i7-82xv00qxvn-thumb-600x600.webp",
+      "PackagePath": "staticwebassets\\css\\images\\lenovo-loq-gaming-15irh8-i7-82xv00qxvn-thumb-600x600.webp"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\images\\lenovo-yoga-7-14irl8-i7-82yl006bvn-thumb-600x600.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\lenovo-yoga-7-14irl8-i7-82yl006bvn-thumb-600x600.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\images\\logo-acer-149x40.png",
+      "PackagePath": "staticwebassets\\css\\images\\logo-acer-149x40.png"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\images\\logo-asus-149x40.png",
+      "PackagePath": "staticwebassets\\css\\images\\logo-asus-149x40.png"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\images\\logo-hp-149x40-1.png",
+      "PackagePath": "staticwebassets\\css\\images\\logo-hp-149x40-1.png"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\images\\logo-lenovo-149x40.png",
+      "PackagePath": "staticwebassets\\css\\images\\logo-lenovo-149x40.png"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\images\\logo-macbook-149x40.png",
+      "PackagePath": "staticwebassets\\css\\images\\logo-macbook-149x40.png"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\images\\logo-msi-149x40.png",
+      "PackagePath": "staticwebassets\\css\\images\\logo-msi-149x40.png"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\images\\logo-surface-149x40-1.png",
+      "PackagePath": "staticwebassets\\css\\images\\logo-surface-149x40-1.png"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\images\\logo.png",
+      "PackagePath": "staticwebassets\\css\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\images\\macbook-air-m1-2020-gray-600x600 (1).jpg",
+      "PackagePath": "staticwebassets\\css\\images\\macbook-air-m1-2020-gray-600x600 (1).jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\images\\macbook-air-m1-2020-gray-600x600.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\macbook-air-m1-2020-gray-600x600.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\images\\macbook-pro-16-inch-m2-pro-1tb-silver-abc-1.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\macbook-pro-16-inch-m2-pro-1tb-silver-abc-1.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\images\\min-1920x450.png",
+      "PackagePath": "staticwebassets\\css\\images\\min-1920x450.png"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\images\\msi-gaming-gf63-thin-11sc-i5-664vn-glr-thumb-600x600.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\msi-gaming-gf63-thin-11sc-i5-664vn-glr-thumb-600x600.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\images\\msi-gaming-gf63-thin-11uc-i7-1228vn-1.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\msi-gaming-gf63-thin-11uc-i7-1228vn-1.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\images\\msi-gaming-gf63-thin-11uc-i7-1228vn-2.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\msi-gaming-gf63-thin-11uc-i7-1228vn-2.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\images\\msi-gaming-gf63-thin-11uc-i7-1228vn-4.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\msi-gaming-gf63-thin-11uc-i7-1228vn-4.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\images\\pressPay_96.svg",
+      "PackagePath": "staticwebassets\\css\\images\\pressPay_96.svg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\images\\samsung-390-210-390x210.png",
+      "PackagePath": "staticwebassets\\css\\images\\samsung-390-210-390x210.png"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\images\\ss-79x271 (1) (1).png",
+      "PackagePath": "staticwebassets\\css\\images\\ss-79x271 (1) (1).png"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\images\\ss-79x271 (1).png",
+      "PackagePath": "staticwebassets\\css\\images\\ss-79x271 (1).png"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\images\\ss-79x271 (1).webp",
+      "PackagePath": "staticwebassets\\css\\images\\ss-79x271 (1).webp"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\images\\surface-pro-9-i5-glr-bac-1.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\surface-pro-9-i5-glr-bac-1.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\images\\surface-pro-9-i5-thumb-cam-ung-600x600.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\surface-pro-9-i5-thumb-cam-ung-600x600.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\images\\vi-vn-asus-tuf-gaming-f15-fx506hf-i5-hn014w--(1).jpg",
+      "PackagePath": "staticwebassets\\css\\images\\vi-vn-asus-tuf-gaming-f15-fx506hf-i5-hn014w--(1).jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\images\\vi-vn-surface-pro-9-i7-slider-2.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\vi-vn-surface-pro-9-i7-slider-2.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\images\\vi-vn-surface-pro-9-i7-slider-4.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\vi-vn-surface-pro-9-i7-slider-4.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\images\\vi-vn-surface-pro-9-i7-slider-5.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\vi-vn-surface-pro-9-i7-slider-5.jpg"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\lib\\Slick\\slick-button.css",
+      "PackagePath": "staticwebassets\\lib\\Slick\\slick-button.css"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\lib\\Slick\\slick-new.css",
+      "PackagePath": "staticwebassets\\lib\\Slick\\slick-new.css"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\lib\\Slick\\slick-theme.min.css",
+      "PackagePath": "staticwebassets\\lib\\Slick\\slick-theme.min.css"
+    },
+    {
+      "Id": "C:\\Project Github\\donet - project\\LaptopSG_Sln\\LaptopSG\\wwwroot\\lib\\Slick\\slick.min.css",
+      "PackagePath": "staticwebassets\\lib\\Slick\\slick.min.css"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.LaptopSG.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.LaptopSG.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.LaptopSG.props",
+      "PackagePath": "build\\LaptopSG.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.LaptopSG.props",
+      "PackagePath": "buildMultiTargeting\\LaptopSG.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.LaptopSG.props",
+      "PackagePath": "buildTransitive\\LaptopSG.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
